@@ -1,2 +1,2 @@
 # rokaest.github.io
-My attempt at an online CV/Resume
+My attempt at a personal website or an online CV/Resume.
