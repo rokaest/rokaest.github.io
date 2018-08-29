@@ -1,0 +1,62 @@
+html {
+
+}
+
+body {
+  font-family: Avenir, "Avenir Next";
+}
+
+.content {
+  padding: 100px;
+  z-index: -2;
+}
+
+.intro {
+  position: static;
+  background-color: light grey;
+}
+
+a {
+  display: block;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: lavender;
+}
+
+a:active {
+  color: lavender;
+  text-decoration: line-through;
+}
+
+table {
+  width: 100%;
+  padding: 15px;
+  position: fixed;
+  top: 0;
+  background-color: white;
+  font-family: "Avenir Next Medium";
+}
+
+td {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+}
+
+/* FOR NAV BAR LIST:
+ul {
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+  display: inline;
+}
